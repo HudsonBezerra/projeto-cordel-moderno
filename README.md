@@ -20,16 +20,6 @@ Com orientação do professor **Gustavo Guanabara** no curso de **HTML5 e CSS3**
 - [Poema original por Milton Duarte](https://www.recantodasletras.com.br/poesias/3186743)
 - [Perfil no GitHub - Hudson Bezerra](https://github.com/HudsonBezerra)
 
-## 📁 Estrutura de pastas
-
-📦 cordel-moderno
-├── 📁 imagens
-│ ├── background001.jpg
-│ └── background002.jpg
-├── 📁 estilo
-│ └── style.css
-└── index.html
-
 ## 🧠 Conceitos aplicados
 
 - HTML semântico (`<header>`, `<section>`, `<footer>`);
